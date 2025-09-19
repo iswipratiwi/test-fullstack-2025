@@ -1,1 +1,5 @@
-# test-fullstack-2025
+# Fullstack Developer Test
+
+Repository ini berisi tugas coding:
+- Faktorial
+- Sistem Login dengan Go Fiber
